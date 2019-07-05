@@ -1,4 +1,3 @@
-![logo](./dependencies/images/TE-logo.jpg)
-# Test Git Page 
+# Test Git Page  ![logo](./dependencies/images/TE-logo.jpg)
 
 
