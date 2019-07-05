@@ -1,1 +1,3 @@
-# manish-thirdeye.github.io
+# Test Git Page ![logo](/images/TE-logo.jpg)
+
+
