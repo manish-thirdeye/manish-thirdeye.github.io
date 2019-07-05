@@ -1,4 +1,4 @@
-![logo](/images/TE-logo.jpg)
+![logo](/images/te_logo.png)
 
 # Test Git Page 
 
