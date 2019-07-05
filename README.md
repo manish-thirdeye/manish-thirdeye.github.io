@@ -1,3 +1,4 @@
-# Test Git Page ![logo](/images/TE-logo.jpg)
+![logo](/images/TE-logo.jpg)
+# Test Git Page 
 
 
